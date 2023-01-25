@@ -13,6 +13,7 @@ Running this python script is quick and easy.
 Enter the following command
 ```
 python wasItrufus.py <path to Git Repository Directory>
+```
 
 ## Sample Output
-<img src="output.jpeg" width=800>
+<img src="output.jpeg" width=800><br>
