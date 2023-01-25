@@ -15,4 +15,4 @@ Enter the following command
 python wasItrufus.py <path to Git Repository Directory>
 
 ## Sample Output
-<img src="output.jpeg" width=800><br>
+<img src="output.png" width=800><br>
