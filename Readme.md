@@ -16,8 +16,4 @@ python wasItrufus.py <path to Git Repository Directory>
 ```
 
 ## Sample Output
-<<<<<<< HEAD
 <img src="output.png" width=800><br>
-=======
-<img src="output.jpeg" width=800><br>
->>>>>>> 5f829bbc3116567732a9d06bf1090121eb45b014
